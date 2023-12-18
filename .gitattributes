@@ -1,0 +1,2 @@
+exercise_04_kmeans/exercise_04_kmeans/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
+exercise_07_mlp/exercise_07_mlp/mnist_train.csv filter=lfs diff=lfs merge=lfs -text
